@@ -2,11 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/home/jmzwcn/work/src/github.com/besttest/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jar="/home/jmzwcn/work/src/github.com/besttest/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/classes.jar"
         jumboMode="false"
         revision="28.0.3"
-        sha1="2c344bab45a54af1c6ad5738be943aa25d9470bf">
-        <dex dex="/home/jmzwcn/work/src/github.com/besttest/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_b1bdea0f92d784607316d02071ecef0874b9ef63.jar" />
+        sha1="7aebcf4efedc02d3e229daf06fdcf45d95fc798a">
+        <dex dex="/home/jmzwcn/work/src/github.com/besttest/platforms/android/build/intermediates/pre-dexed/debug/classes-eb08bf00241399d4736f1989a90fe5cd1b3ba7f2.jar" />
     </item>
 
 </items>
