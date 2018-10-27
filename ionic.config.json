@@ -1,5 +1,7 @@
 {
   "name": "besttest",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
